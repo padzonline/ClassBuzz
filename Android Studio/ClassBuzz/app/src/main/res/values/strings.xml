@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClassBuzz</string>
+    <string name="info_box">Thanks for trying CLASS BUZZ!\n\nThis is a demo app which allows you to access sample class response sessions and submit an answer for each one.\nYou can also check the live results of an example session ST900-01a.\n\nFor any queries, please feel free to contact me at paddy@padzonline.com.\n\n\nVersion 1.0\n\n\n(Tap to dismiss)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">ClassBuzz</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_session">SessionActivity</string>
+    <string name="title_activity_example_results">ExampleResultsActivity</string>
+</resources>
